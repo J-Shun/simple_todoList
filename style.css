@@ -151,6 +151,8 @@ body {
   height: 100%;
   background-color: #7ab1fa;
   padding-top: 50px;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 h1 {
